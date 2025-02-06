@@ -27,7 +27,7 @@ int main() {
     scanf("%s", codigo_carta);
 
     printf("Nome da cidade: ");
-    scanf("%s", nome_cidade); // Lê a linha inteira para nomes com espaços
+    scanf("%s", nome_cidade);
 
     printf("População da cidade: ");
     scanf("%d", &populacao);
