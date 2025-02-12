@@ -22,7 +22,7 @@ int main() {
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
     
     printf("Estado (A a H): ");
-    scanf(" %c", &estado);
+    scanf("%c", &estado);
 
     printf("Código da carta (ex: A01, B02): ");
     scanf("%s", codigo_carta);
